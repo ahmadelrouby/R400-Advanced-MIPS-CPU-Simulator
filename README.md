@@ -2,7 +2,7 @@
 
 
 
-![Screenshot](img "Screenshot")
+![Screenshot](img.png "Screenshot")
 
 This is an 8 Stage MIPS Pipelined CPU with the following features
 
